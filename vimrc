@@ -1,4 +1,5 @@
 "设置我自己的vim运行配置文件vimrc
+"虐啊，继续。
 :set encoding=utf-8
 :set fileencoding=utf-8
 colorscheme desert
